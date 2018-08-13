@@ -1,5 +1,6 @@
 {
   "compileOnSave": false,
+  "typescript.tsdk": "./node_modules/typescript/lib",
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
